@@ -87,25 +87,25 @@ Dashboard](assets/screenshots/01-dashboard-operations-pulse.png)
 ### AI Assistant -- Capability Overview
 
 ![Chatbot
-Overview](assets/screenshots/02-chatbot-assistant-overview.png)
+Overview](assets/screenshots/02-chatbot-assistant-overview.jpg)
 
 ### AI Assistant -- PO Query Example
 
 ![PO Query via
-Chatbot](assets/screenshots/03-chatbot-po-query-response.png)
+Chatbot](assets/screenshots/03-chatbot-po-query-response.jpg)
 
 ### Documents View -- MSA Buckets
 
-![MSA Buckets](assets/screenshots/04-documents-msa-buckets.png)
+![MSA Buckets](assets/screenshots/04-documents-msa-buckets.jpg)
 
 ### Document Details & OCR Extraction
 
 ![Document
-Details](assets/screenshots/05-document-details-extracted-fields.png)
+Details](assets/screenshots/05-document-details-extracted-fields.jpg)
 
 ### Document Inventory
 
-![Document Inventory](assets/screenshots/06-document-inventory-list.png)
+![Document Inventory](assets/screenshots/06-document-inventory-list.jpg)
 
 ------------------------------------------------------------------------
 
