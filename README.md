@@ -114,7 +114,7 @@ Details](assets/screenshots/05-document-details-extracted-fields.jpg)
 A guided demo flow describing how to present and navigate the system is
 available here:
 
-📄 **[demo/demo-flow.md](demo/demo-flow.md)**
+📄 **[demo/demo-flow.md](demo/Demo-Flow.md)**
 
 ------------------------------------------------------------------------
 
